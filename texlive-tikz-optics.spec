@@ -1,6 +1,6 @@
 Name:		texlive-tikz-optics
 Version:	62977
-Release:	1
+Release:	2
 Summary:	A library for drawing optical setups with TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-optics
